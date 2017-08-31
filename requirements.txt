@@ -1,5 +1,5 @@
 # 0.8.4 backport of https://github.com/mher/flower/pull/724/
-git+git://github.com/ajb/flower.git@131b8fbc7e6bfba3f7c41bc1338cc729c507a312
+git+git://github.com/ajb/flower.git@27abb29d492bafa8e59b14360eb3ade5220dee4e
 
 celery==3.1.23
 redis
